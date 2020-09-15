@@ -3,7 +3,7 @@ import java.text.DecimalFormat
 fun main(){
 
     var userAns = 0.00  // variable that will hold the user input
-    var cost = 0.00  // variabe that will hold the total cost of the user's items
+    var cost = 0.00  // variable that will hold the total cost of the user's items
 
     println("Please enter the price of your items.")  // ask the user a question
     println("Enter 0.00 to end") // let's the user know how to stop putting more inputs
